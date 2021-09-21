@@ -1,0 +1,2 @@
+rootProject.name = "Completable Future"
+include ':app'
